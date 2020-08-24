@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import { DatePicker } from 'antd';
-import 'antd/dist/antd.css';
 
 export default function Home() {
   return (
